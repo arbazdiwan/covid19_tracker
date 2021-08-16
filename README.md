@@ -1,6 +1,17 @@
-# covid19_tracker
+# covid19 Tracker
 
-A new Flutter application.
+A Flutter application to display COVID-19 stats of countries.
+
+
+
+
+
+
+
+
+
+
+
 
 ## Getting Started
 
