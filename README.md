@@ -28,7 +28,7 @@
 
   <img src="https://user-images.githubusercontent.com/24837320/129550165-0c2f92b8-5134-47f9-8591-c95eb0834e89.jpg" width=330 alt="covid 19 tracker All Countries Page" title="covid 19 tracker All Countries Page" />
   
-  <img src="https://user-images.githubusercontent.com/24837320/129551220-a88a3f49-ede7-4dfd-a2c1-712a852f8a79.jpg" width=330 alt="covid 19 tracker All Search Country Page" title="covid 19 tracker All Countries Page" />
+  <img src="https://user-images.githubusercontent.com/24837320/129551220-a88a3f49-ede7-4dfd-a2c1-712a852f8a79.jpg" width=330 alt="covid 19 tracker Search Country Page" title="covid 19 tracker All Countries Page" />
 
   <img src="https://user-images.githubusercontent.com/24837320/129551253-cab0ae15-33a6-4f57-a068-5cf393629934.jpg" width=330 alt="covid 19 tracker FAQ Page" title="covid 19 tracker FAQ Page" />
 
