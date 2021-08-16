@@ -1,7 +1,7 @@
 # Covid19 Tracker
 
 
-It is an Android app build using Flutter where we can see country wise stats of COVID-19.
+It is an Android app built using Flutter where we can see country wise stats of COVID-19.
 
 <br>
 
