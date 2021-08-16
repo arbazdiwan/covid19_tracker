@@ -4,8 +4,9 @@
 In this app, we can see country wise stats of COVID-19.
 <br>
 <p float"center">
-  j
+  [![Covid-19 Tracker App Video](https://i9.ytimg.com/vi/aNG3wfKEQ38/mq2.jpg?sqp=CNyM6YgG&rs=AOn4CLAPAakBDqZdWTXO5ZjzqXnEOw7bkQ)] (http://www.youtube.com/watch?v=aNG3wfKEQ38)
 </p>
+<br>
 <p float="left">
   
   <img src="https://user-images.githubusercontent.com/24837320/129549592-d7a800b4-6900-45d7-8547-86626693509f.png" width=330 alt="covid 19 tracker Home Page" title="covid 19 tracker Home Page" />
