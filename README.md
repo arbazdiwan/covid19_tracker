@@ -5,10 +5,10 @@ A Flutter application to display COVID-19 stats of countries.
 In this app, we can see country wise stats of COVID-19.
 
 
-<img src="https://user-images.githubusercontent.com/24837320/129549592-d7a800b4-6900-45d7-8547-86626693509f.png" width=330 />
+![covid 19 tracker Home Page]<img src="https://user-images.githubusercontent.com/24837320/129549592-d7a800b4-6900-45d7-8547-86626693509f.png" width=330 />
 
 
-
+![covid 19 tracker All Countries Page]<img src="https://user-images.githubusercontent.com/24837320/129550165-0c2f92b8-5134-47f9-8591-c95eb0834e89.jpg" width=330 />
 
 
 
