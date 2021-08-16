@@ -7,11 +7,14 @@
 <p>
  API used is: https://corona.lmao.ninja/
 </p>
+<p>
+  Watch Vidoe here: http://www.youtube.com/watch?v=aNG3wfKEQ38
+</p>
 
 <br>
 
 <p float"center">
-Watch Vidoe here: http://www.youtube.com/watch?v=aNG3wfKEQ38
+
   <a href="http://www.youtube.com/watch?v=aNG3wfKEQ38"> 
     <img alt="Covid-19 Tracker App Video" src="https://i9.ytimg.com/vi/aNG3wfKEQ38/mq2.jpg?sqp=CNyM6YgG&rs=AOn4CLAPAakBDqZdWTXO5ZjzqXnEOw7bkQ"
          title="Covid-19 Tracker App Video" />
